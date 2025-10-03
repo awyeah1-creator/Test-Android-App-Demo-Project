@@ -5,6 +5,7 @@ Simple Android demo app—features include a counter and a text input. Project w
 ## Project Purpose
 
 This is an Android demo application designed to showcase basic mobile app development features including:
+
 - Interactive counter functionality
 - Text input handling
 - Clean and simple user interface
@@ -18,11 +19,13 @@ This is an Android demo application designed to showcase basic mobile app develo
 ## How to Build and Run
 
 ### Prerequisites
+
 - Android Studio (latest version recommended)
 - Android SDK
 - Java Development Kit (JDK) 8 or higher
 
 ### Steps
+
 1. Clone this repository
 2. Open the project in Android Studio
 3. Wait for Gradle sync to complete
@@ -32,6 +35,7 @@ This is an Android demo application designed to showcase basic mobile app develo
 ## Development Environment
 
 This project uses:
+
 - VS Code integration for enhanced development workflow
 - GitHub for version control and collaboration
 - Development approach inspired by the Notion page documentation
@@ -42,4 +46,4 @@ This project uses:
 
 ## Status
 
-🚧 Repository initialized - code implementation coming soon!
+✅ Initial app structure completed: Home screen features counter and text input. See changelog for details.
