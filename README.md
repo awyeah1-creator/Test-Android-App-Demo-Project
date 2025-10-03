@@ -46,4 +46,6 @@ This project uses:
 
 ## Status
 
+2pm test from android studio for sync
+
 ✅ Initial app structure completed: Home screen features counter and text input. See changelog for details.
